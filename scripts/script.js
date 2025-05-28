@@ -1,6 +1,6 @@
 
 function iniciarMapa() {
-    var coordenadas = { lat: -23.550520, lng: -46.633308 }; // Exemplo: São Paulo, Brasil
+    var coordenadas = { lat: -23.550520, lng: -46.633308 };
     var mapa = new google.maps.Map(document.getElementById("mapa"), {
       center: coordenadas,
       zoom: 12

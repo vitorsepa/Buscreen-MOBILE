@@ -1,0 +1,16 @@
+#mapa {
+  height: 100vh; /* Ocupa toda a altura da tela */
+  width: 100%;
+}
+
+.mapaa{
+  align-items: center;
+}
+
+.logodosite{
+  width: 200px;
+  height: 80px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
